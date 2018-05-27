@@ -1,12 +1,10 @@
 #Author: Mert Can Coşkuner
-#Garnizon Bilgi Güvenliği
-
 #!/bin/bash
 
 usage() {
 	echo "(╯°□°)╯︵ ┻━┻ USER MANUAL ┻━┻ ︵ ヽ(°□°ヽ)"
 	echo "------------------------------------------"
-	echo "Author: Mert Can Coskuner, Garnizon Bilgi Güvenligi"
+	echo "Author: Mert Can Coskuner"
 	echo "------------------------------------------"
 	echo "Argument list"
 	echo "------------------------------------------"
