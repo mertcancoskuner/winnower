@@ -1,6 +1,4 @@
 #Author: Mert Can Coşkuner
-#Garnizon Bilgi Güvenliği
-
 #!/bin/bash
 
 usage() {
