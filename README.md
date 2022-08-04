@@ -6,9 +6,9 @@
 - -portlist: List of ports to filter
 
 ### Usage
-winnower.sh -iplist <file> -port <port>
-winnower.sh -iplist <file> -portlist <portlist>
+- winnower.sh -iplist <file> -port <port>
+- winnower.sh -iplist <file> -portlist <portlist>
 
 ### Examples
-winnower.sh -iplist iplist.gnmap -port 53
-winnower.sh -iplist iplist.gnmap -portlist 23,53
+- winnower.sh -iplist iplist.gnmap -port 53
+- winnower.sh -iplist iplist.gnmap -portlist 23,53
