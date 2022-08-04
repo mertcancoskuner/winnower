@@ -1,9 +1,9 @@
 ## Parsing script for greppable masscan output to get specific ports
 
 ### Arguments
--iplist: Greppable output (-oG)
--port: Specific port number to filter
--portlist: List of ports to filter
+- -iplist: Greppable output (-oG)
+- -port: Specific port number to filter
+- -portlist: List of ports to filter
 
 ### Usage
 winnower.sh -iplist <file> -port <port>
